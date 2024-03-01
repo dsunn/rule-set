@@ -1,0 +1,9 @@
+payload:
+  - '+.speedtest.net'
+  - '+.fast.com'
+  - '+.plex.tv'
+  - '+.clients3.google.com'
+  - '+.clients4.google.com'
+  - '+.msftconnecttest.com'
+  - '+.msftncsi.com'
+#  - '+.mp.microsoft.com
