@@ -1,4 +1,4 @@
-#sing-box rule-set
+//sing-box rule-set
 
 {
     "version": 1,
@@ -14,4 +14,4 @@
       "domain_suffix": []
       }
     ]
-  }
+}
