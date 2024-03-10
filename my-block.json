@@ -2,22 +2,10 @@
     "version": 1,
     "rules": [
       {
-        "domain": []
-      },
-      {
         "ip_cidr": [
             "42.62.94.2/32",
             "121.51.77.183/32"
         ]
-      },
-      {
-        "domain_suffix": [
-
-      ],
-        "domain": []
-      },
-      {
-        "domain_suffix": []
       }
     ]
-  }
+}
