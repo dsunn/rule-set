@@ -23,6 +23,12 @@
             "api.installer.xiaomi.com",
             "tracking.miui.com"
         ]
+      },
+      {
+        "ip_cidr": [
+            "157.148.47.204/32",
+            "111.202.0.0/24"
+        ]
       }
     ]
   }
