@@ -1,0 +1,17 @@
+#sing-box rule-set
+
+{
+    "version": 1,
+    "rules": [
+      {
+        "domain": [""]
+      },
+      {
+        "domain_suffix": ["msftconnecttest.com", "msftncsi.com"],
+        "domain": []
+      },
+      {
+      "domain_suffix": []
+      }
+    ]
+  }
