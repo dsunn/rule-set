@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "rules": [
+      {
+        "domain_suffix": [
+            "1drv.com",
+            "1drv.ms",
+            "live.com",
+            "live.net",
+            "livefilestore.com",
+            "storage.msn.com",
+            "xboxlive.com",
+            "microsoft.com",
+            "windows.com",
+            "windowsupdate.com",
+            "visualstudio.com",
+            "msecnd.net",
+            "officecdn-microsoft-com.akamaized.net"
+        ]
+      }
+    ]
+  }
