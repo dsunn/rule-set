@@ -1,0 +1,28 @@
+{
+    "version": 1,
+    "rules": [
+      {
+        "domain_suffix": [
+            "user.mypikpak.com",
+            "rcv5-sp.mypikpak.com",
+            "rcv5-gcm-sp.mypikpak.com",
+            "config.mypikpak.com",
+            "api-drive.mypikpak.com",
+            "access.mypikpak.com",
+            "hubciddata.mypikpak.com",
+            "hub5pnc.mypikpak.com",
+            "toapp.mypikpak.com",
+            "hub5pn.mypikpak.com",
+            "hub.dcdn.mypikpak.com",
+            "rp.shub.mypikpak.com",
+            "static.mypikpak.com",
+            "hub5p.mypikpak.com",
+            "hub5pn.mypikpak.com",
+            "hub5pr.mypikpak.com",
+            "idx.shub.mypikpak.com",
+            "mypikpak.com",
+            "mypikpak.me"
+        ]
+      }
+    ]
+  }
