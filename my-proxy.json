@@ -3,6 +3,9 @@
   "rules": [
     {
       "domain_suffix": [
+        "sagernet.org",
+        "services.googleapis.cn",
+        "gstatic.com",
         "msftconnecttest.com", 
         "msftncsi.com"
       ]

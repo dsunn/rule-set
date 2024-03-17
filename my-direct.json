@@ -2,7 +2,7 @@
     "version": 1,
     "rules": [
       {
-        "domain": [
+        "domain_suffix": [
             "whatsever.eu.org",
             "bitw.mycandy.eu.org",
             "bitww.mycandy.eu.org"
