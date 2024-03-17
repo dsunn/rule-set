@@ -1,0 +1,12 @@
+{
+    "version": 1,
+    "rules": [
+      {
+        "domain": [
+            "whatsever.eu.org",
+            "bitw.mycandy.eu.org",
+            "bitww.mycandy.eu.org"
+        ]
+      }
+    ]
+  }
