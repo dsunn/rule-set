@@ -3,10 +3,7 @@
     "rules": [
       {
         "domain_suffix": [
-          "bitw.mycandy.eu.org",
-          "bitww.mycandy.eu.org",
-          "uneed.com",
-          "whatsever.eu.org"
+          "uneed.com"
         ]
       }
     ]
