@@ -19,7 +19,11 @@
             "hub5p.mypikpak.com",
             "hub5pn.mypikpak.com",
             "hub5pr.mypikpak.com",
-            "idx.shub.mypikpak.com",
+            "idx.shub.mypikpak.com"
+        ]
+      },
+      {
+        "domain": [
             "mypikpak.com",
             "mypikpak.me"
         ]
