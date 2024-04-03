@@ -3,7 +3,7 @@
     "rules": [
       {
         "domain_suffix": [
-          "uneed.com",
+          // "uneed.com",
           "hiecheimaetu.com"
         ]
       }
