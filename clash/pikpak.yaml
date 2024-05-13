@@ -6,15 +6,15 @@ payload:
   - DOMAIN-SUFFIX,api-drive.mypikpak.com
   - DOMAIN-SUFFIX,access.mypikpak.com
   - DOMAIN-SUFFIX,hubciddata.mypikpak.com
-  - DOMAIN-SUFFIX,hub5pnc.mypikpak.com
+  # - DOMAIN-SUFFIX,hub5pnc.mypikpak.com
   - DOMAIN-SUFFIX,toapp.mypikpak.com
   - DOMAIN-SUFFIX,hub5pn.mypikpak.com
   - DOMAIN-SUFFIX,hub.dcdn.mypikpak.com
   - DOMAIN-SUFFIX,rp.shub.mypikpak.com
   - DOMAIN-SUFFIX,static.mypikpak.com
-  - DOMAIN-SUFFIX,hub5p.mypikpak.com
-  - DOMAIN-SUFFIX,hub5pn.mypikpak.com
-  - DOMAIN-SUFFIX,hub5pr.mypikpak.com
+  # - DOMAIN-SUFFIX,hub5p.mypikpak.com
+  # - DOMAIN-SUFFIX,hub5pn.mypikpak.com
+  # - DOMAIN-SUFFIX,hub5pr.mypikpak.com
   - DOMAIN-SUFFIX,idx.shub.mypikpak.com
   - DOMAIN,mypikpak.com
   - DOMAIN,mypikpak.me
