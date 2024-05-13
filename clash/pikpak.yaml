@@ -8,7 +8,6 @@ payload:
   - DOMAIN-SUFFIX,hubciddata.mypikpak.com
   # - DOMAIN-SUFFIX,hub5pnc.mypikpak.com
   - DOMAIN-SUFFIX,toapp.mypikpak.com
-  - DOMAIN-SUFFIX,hub5pn.mypikpak.com
   - DOMAIN-SUFFIX,hub.dcdn.mypikpak.com
   - DOMAIN-SUFFIX,rp.shub.mypikpak.com
   - DOMAIN-SUFFIX,static.mypikpak.com
