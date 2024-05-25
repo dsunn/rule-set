@@ -49,8 +49,8 @@ payload:
   - DOMAIN-SUFFIX,hub5pn.mypikpak.net
   - DOMAIN-SUFFIX,hub5pr.mypikpak.net
   - DOMAIN-SUFFIX,idx.shub.mypikpak.net
-  
+
   - DOMAIN,mypikpak.com
   - DOMAIN,mypikpak.net
   - DOMAIN,mypikpak.me
-  - DOMAIN,pikpakdrive.me
+  - DOMAIN,pikpakdrive.com
