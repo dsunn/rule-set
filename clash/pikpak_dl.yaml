@@ -1,0 +1,2 @@
+payload:
+  - DOMAIN-REGEX,^(rcv5-|rcv4-|dl-|sg-|api-).*\\.(mypikpak\\.(com|net|me)|pikpakdrive\\.com)
