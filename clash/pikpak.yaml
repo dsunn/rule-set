@@ -15,6 +15,42 @@ payload:
   - DOMAIN-SUFFIX,hub5pn.mypikpak.com
   - DOMAIN-SUFFIX,hub5pr.mypikpak.com
   - DOMAIN-SUFFIX,idx.shub.mypikpak.com
+
+  - DOMAIN-SUFFIX,user.pikpakdrive.com
+  - DOMAIN-SUFFIX,rcv5-sp.pikpakdrive.com
+  - DOMAIN-SUFFIX,rcv5-gcm-sp.pikpakdrive.com
+  - DOMAIN-SUFFIX,config.pikpakdrive.com
+  - DOMAIN-SUFFIX,api-drive.pikpakdrive.com
+  - DOMAIN-SUFFIX,access.pikpakdrive.com
+  - DOMAIN-SUFFIX,hubciddata.pikpakdrive.com
+  - DOMAIN-SUFFIX,hub5pnc.pikpakdrive.com
+  - DOMAIN-SUFFIX,toapp.pikpakdrive.com
+  - DOMAIN-SUFFIX,hub.dcdn.pikpakdrive.com
+  - DOMAIN-SUFFIX,rp.shub.pikpakdrive.com
+  - DOMAIN-SUFFIX,static.pikpakdrive.com
+  - DOMAIN-SUFFIX,hub5p.pikpakdrive.com
+  - DOMAIN-SUFFIX,hub5pn.pikpakdrive.com
+  - DOMAIN-SUFFIX,hub5pr.pikpakdrive.com
+  - DOMAIN-SUFFIX,idx.shub.pikpakdrive.com
+
+  - DOMAIN-SUFFIX,user.mypikpak.net
+  - DOMAIN-SUFFIX,rcv5-sp.mypikpak.net
+  - DOMAIN-SUFFIX,rcv5-gcm-sp.mypikpak.net
+  - DOMAIN-SUFFIX,config.mypikpak.net
+  - DOMAIN-SUFFIX,api-drive.mypikpak.net
+  - DOMAIN-SUFFIX,access.mypikpak.net
+  - DOMAIN-SUFFIX,hubciddata.mypikpak.net
+  - DOMAIN-SUFFIX,hub5pnc.mypikpak.net
+  - DOMAIN-SUFFIX,toapp.mypikpak.net
+  - DOMAIN-SUFFIX,hub.dcdn.mypikpak.net
+  - DOMAIN-SUFFIX,rp.shub.mypikpak.net
+  - DOMAIN-SUFFIX,static.mypikpak.net
+  - DOMAIN-SUFFIX,hub5p.mypikpak.net
+  - DOMAIN-SUFFIX,hub5pn.mypikpak.net
+  - DOMAIN-SUFFIX,hub5pr.mypikpak.net
+  - DOMAIN-SUFFIX,idx.shub.mypikpak.net
+  
   - DOMAIN,mypikpak.com
   - DOMAIN,mypikpak.net
   - DOMAIN,mypikpak.me
+  - DOMAIN,pikpakdrive.me
