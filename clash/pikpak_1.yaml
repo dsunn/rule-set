@@ -5,3 +5,4 @@ payload:
   - DOMAIN-SUFFIX,pikpakdrive.com
   - DOMAIN-SUFFIX,o4504926511693824.ingest.sentry.io
   - IP-CIDR,8.219.220.1/24
+  - IP-CIDR,8.210.96.1/24
