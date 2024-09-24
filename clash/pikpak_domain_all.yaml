@@ -57,6 +57,8 @@ payload:
   - DOMAIN-SUFFIX,sg-thumbnail-drive.mypikpak.net
   - DOMAIN-SUFFIX,web-vod-xdrive.mypikpak.net
 
+  - DOMAIN-SUFFIX,o4504926511693824.ingest.sentry.io
+  
   - DOMAIN,mypikpak.com
   - DOMAIN,mypikpak.net
   - DOMAIN,mypikpak.me
