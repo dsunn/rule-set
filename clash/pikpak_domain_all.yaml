@@ -54,6 +54,7 @@ payload:
   - DOMAIN-SUFFIX,hub5pr.mypikpak.net
   - DOMAIN-SUFFIX,idx.shub.mypikpak.net
   - DOMAIN-SUFFIX,pikpak-app.oss-ap-southeast-1.aliyuncs.com
+  - DOMAIN-SUFFIX,pikpak-subtitle.oss-ap-southeast-1.aliyuncs.com
   - DOMAIN-SUFFIX,sg-thumbnail-drive.mypikpak.net
   - DOMAIN-SUFFIX,web-vod-xdrive.mypikpak.net
 
